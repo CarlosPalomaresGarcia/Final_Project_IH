@@ -6,5 +6,11 @@ hbo_credits.csv
 hbo_titles.csv
 netflix_credits.csv
 netflix_titles.csv
-main_csv.ipynb
+cookies.pkl
+main.py
+main_all.py
+main_amazon.py
+main_disney.py
+main_hbo.py
+main_netflix.py
 main_ws.ipynb
