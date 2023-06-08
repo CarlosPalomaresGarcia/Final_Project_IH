@@ -19,5 +19,7 @@ He utilizado el "Scheduled Task" de Microsoft dentro de la Máquina Virtual para
 ## 5. Dashboard de Power BI
 He creado un Dashboard en Power BI para visualizar los datos de las plataformas. El origen de los datos se actualizan diariamente de forma automatica a traves de la cuenta de BlobStorage de Azure.
 
+![Dashboard PowerBI](VisPowerBI(1).jpg)
+
 ## 6. Actualización Automática de la Base de Datos
 He completado el codigo en Python para generar automáticamente un archivo JSON actualizado y cargarlo en la cuenta de BlobStorage. Esto asegura que la base de datos esté siempre actualizada con las últimas películas disponibles en las plataformas de streaming.
